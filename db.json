@@ -1,13 +1,5 @@
 {
-    "register": [
-        {
-            "name": "",
-            "email": "",
-            "password": "",
-            "mobile": 0,
-            "specialyst": ""
-        }
-    ],
+    "register": [],
     "dr.Majnu": [
         {
             "patientName": "Ghungroo",
