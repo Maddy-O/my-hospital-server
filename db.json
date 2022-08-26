@@ -1,0 +1,24 @@
+{
+    "register": [
+        {
+            "name": "",
+            "email": "",
+            "password": "",
+            "mobile": 0,
+            "specialyst": ""
+        }
+    ],
+    "dr.Majnu": [
+        {
+            "patientName": "Ghungroo",
+            "gender": "male",
+            "age": 45,
+            "med": [
+                {
+                    "lolopin": "25 pils",
+                    "dolo": "10 pils"
+                }
+            ]
+        }
+    ]
+}
